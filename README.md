@@ -1,1 +1,3 @@
-Second Project form React Front to Back Built with Vite
+Second Project form React Front to Back Course 
+
+Built with Vite
